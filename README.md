@@ -1,6 +1,11 @@
 # ExcelPilot 📊
 
 ExcelPilot is an intelligent Excel analysis tool that uses Retrieval-Augmented Generation (RAG) with natural language processing to help users analyze and understand their Excel data effortlessly.
+![1](https://github.com/user-attachments/assets/93b5f9f6-1577-469c-85cb-aa3b0aa66286)
+![2](https://github.com/user-attachments/assets/c5e59df7-1dc6-4038-97e9-ad12f6013027)
+![Screenshot 2024-12-18 004125](https://github.com/user-attachments/assets/2e199f56-c52d-46db-ae00-bff1168fb2a4)
+
+
 
 ## 🌟 Features
 
